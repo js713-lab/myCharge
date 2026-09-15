@@ -11,3 +11,4 @@ Open `myCharge.xcodeproj` in Xcode and run the `myCharge` scheme on a simulator 
 
 ## Status
 Personal / learning project by [CodeCrafter](https://www.codecrafter.dev/).
+
